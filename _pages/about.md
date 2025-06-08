@@ -55,6 +55,13 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - 一种基于随机块的高分遥感图像的语义分割方法及系统. CN111738268B.
 - 基于均匀聚类的语义分割的无监督域适应方法、装置、系统和存储介质. CN113221905B.
 
+# 🛠️ Academic Projects
+
+- 国家重点研发计划项目-跨界服务融合理论与关键技术（2017YFB1400600），项目经费：6716万元，2017.12-2021.05，核心参与                     
+- 国家杰出青年科学基金项目-服务计算（61825205），项目经费：400万元，2019.01-2024.01，核心参与
+
+<span class='anchor' id='honors-and-awards'></span>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
