@@ -35,19 +35,14 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Selected Papers
+- **Ge Su**, Kaiping Zheng, Tiancheng Zhao, and Jianwei Yin. CLEAR: Addressing Representation Contamination in Multimodal Healthcare Analytics. **ACM SIGKDD 2025. [CCF-A]**
+- **Ge Su**, Bo Lin, Wei Luo, Jianwei Yin, Shuiguang Deng, Honghao Gao, and Renjun Xu. Hypomimia recognition in parkinson’s disease with semantic features. **ACM TOMM 2021. [CCF-B]**
+- **Ge Su**, Bo Lin, Jianwei Yin, Wei Luo, Renjun Xu, Jie Xu, and Kexiong Dong. Detection of hypomimia in patients with Parkinson’s disease via smile videos. **Annals of Translational Medicine. [SCI]**
+- Qilin Li, Jinfeng Cao, Xinjiang Liu, Xin Luo, **Ge Su**, Dejian Wang, and Bo Lin. The diagnostic value of diffusion kurtosis imaging in Parkinson’s disease: a systematic review and meta-analysis. **Annals of Translational Medicine. [SCI]**
+- Jinfeng Cao, Jinye Dong, **Ge Su**, Baohua Zhang, Lingchen Zhu, Min Wang, Qilin Li, Lesong Zhang, Dejian Wang, and Xin Luo. Comparison of the monoexponential and biexponential models of diffusion-weighted magnetic imaging in grading clear-cell renal cell carcinoma: a case-control study. **Translational Andrology and Urology. [SCI]**
+- Zhou Tong, Yin Wang, Xuanwen Bao, Yu Deng, Bo Lin, **Ge Su**, Kejun Ye, Xiaomeng Dai, Hangyu Zhang, Lulu Liu, Wenyu Wang, Yi Zheng, Weijia Fang, Peng Zhao, Peirong Ding, Shuiguang Deng, Xiangming Xu. Development of a whole-slide-level segmentation-based dMMR/pMMR deep learning detector for colorectal cancer. **Iscience. [SCI]**
+- Luming Zhang, **Ge Su**, Jianwei Yin, Ying Li, Qiuru Lin, Xiaoqin Zhang, and Ling Shao. Bioinspired scene classification by deep active learning with remote sensing applications. **IEEE CYB 2021. [CCF-B]**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
