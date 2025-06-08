@@ -23,16 +23,16 @@ I am currently a Postdoctoral Researcher at the School of Software Technology at
 In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor Jianwei Yin and co-supervised by Professor Shuiguang Deng. My primary research focuses on multimodal learning, data mining and intelligent healthcare, with a particular emphasis on large vision-language models in the intelligent regulatory tasks.
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by Cell Discovery 2025.
-- *2025.05*: &nbsp;🎉🎉 Joined the School of Software Technology at Zhejiang University as a Postdoctoral Researcher.
-- *2025.03*: &nbsp;🎉🎉 Obtained a PhD from the School of Computer Science and Technology at Zhejiang University. 
-- *2024.11*: &nbsp;🎉🎉 A first-author regular paper has been accepted by SIGKDD 2025. 
+- *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **Cell Discovery 2025**.
+- *2025.05*: &nbsp;🎉🎉 Joined the School of Software Technology at **Zhejiang University** as a **Postdoctoral Researcher**.
+- *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**. 
+- *2024.11*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **SIGKDD 2025**. 
 - *2024.05*: &nbsp;🎉🎉 A co-authored regular paper has been published by Translational Andrology and Urology.
 - *2023.12*: &nbsp;🎉🎉 A co-authored regular paper has been published by Iscience.
 - *2022.04*: &nbsp;🎉🎉 A co-authored regular paper has been published by Annals of Translational Medicine.
-- *2021.10*: &nbsp;🎉🎉 A first-author regular paper has been published by TOMM.
+- *2021.10*: &nbsp;🎉🎉 A first-author regular paper has been published by **TOMM**.
 - *2021.08*: &nbsp;🎉🎉 A first-author regular paper has been published by Annals of Translational Medicine.
-- *2021.08*: &nbsp;🎉🎉 A co-authored regular paper has been published by IEEE Transactions on Cybernetics.
+- *2021.08*: &nbsp;🎉🎉 A co-authored regular paper has been published by **IEEE Transactions on Cybernetics**.
 
 # 📝 Publications 
 
