@@ -47,6 +47,9 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - Zhou Tong, Yin Wang, Xuanwen Bao, Yu Deng, Bo Lin, **Ge Su**, Kejun Ye, Xiaomeng Dai, Hangyu Zhang, Lulu Liu, Wenyu Wang, Yi Zheng, Weijia Fang, Peng Zhao, Peirong Ding, Shuiguang Deng, Xiangming Xu. Development of a whole-slide-level segmentation-based dMMR/pMMR deep learning detector for colorectal cancer. **Iscience. [SCI]**
 - Luming Zhang, **Ge Su**, Jianwei Yin, Ying Li, Qiuru Lin, Xiaoqin Zhang, and Ling Shao. Bioinspired scene classification by deep active learning with remote sensing applications. **IEEE CYB 2021. [CCF-B]**
 
+## Selected Patents
+- Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
