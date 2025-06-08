@@ -65,10 +65,8 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- 浙江大学希格斯奖学金三等奖（2023）
-- 浙江大学五好研究生、优秀研究生、优秀学生干部（2023）
+- 浙江大学希格斯奖学金（2023）
 - 人民网人工智能算法挑战赛亚军（2021）
-- 浙江大学CCNT杰出研究生（2021）
 - 长三角空天信息数据开放创新大赛二等奖（2020）
   
 # 📖 Educations
