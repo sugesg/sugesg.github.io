@@ -22,7 +22,7 @@ I am currently a Postdoctoral Researcher at the School of Software Technology at
 
 In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a>. My primary research focuses on multimodal learning, data mining and intelligent healthcare, with a particular emphasis on large vision-language models in the intelligent regulatory tasks.
 
-You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?page=17367770&style=0006&nbdigits=5&type=ip&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />  to my homepage. Thanks for your attention!
+#You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?page=17367770&style=0006&nbdigits=5&type=ip&initCount=0" title="Counter #Widget" Alt="Visit counter For Websites"   border="0" />  to my homepage. Thanks for your attention!
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **Cell Discovery 2025**.
