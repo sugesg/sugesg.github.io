@@ -62,8 +62,6 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - 国家重点研发计划-服务智能监管共性理论与技术（2022YFF0902600），项目经费：500万元，2022.11 – 2025.10，核心参与
 - 国家重大专项-高分辨率对地观测系统重大专项（民用部分）高分网格平台（二期）（50-D36B02-9002-16/19），项目经费：5081万元，2017-01 – 2020.06，核心参与
 
-<span class='anchor' id='honors-and-awards'></span>
-
 # 🎖 Honors and Awards
 - 浙江大学希格斯奖学金（2023）
 - 人民网人工智能算法挑战赛亚军（2021）
@@ -74,11 +72,6 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - 2023.07 - 2024.07, Joint Ph.D. Program. Computer Science and Technology, College of Computing, National University of Singapore.
 - 2015.09 - 2019.06, B.Eng. Digital Media Technology, School of Information Engineering, Communication University of China.
 
-<span class='anchor' id='contacts'></span>
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Contacts
+- E-Mail: suge@zju.edu.cn
+- Room 311, No. 3 Building, School of Software Technology at Zhejiang University, No. 5 Xuefu Road, Yinzhou District, Ningbo, China
