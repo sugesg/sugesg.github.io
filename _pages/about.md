@@ -22,8 +22,6 @@ I am currently a Postdoctoral Researcher at the School of Software Technology at
 
 In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a>. My primary research focuses on multimodal learning, data mining and intelligent healthcare, with a particular emphasis on large vision-language models in the intelligent regulatory tasks.
 
-#You are visitor number <img src="https://hitwebcounter.com/counter/counter.php?page=17367770&style=0006&nbdigits=5&type=ip&initCount=0" title="Counter #Widget" Alt="Visit counter For Websites"   border="0" />  to my homepage. Thanks for your attention!
-
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **Cell Discovery 2025**.
 - *2025.05*: &nbsp;🎉🎉 Joined the School of Software Technology at **Zhejiang University** as a **Postdoctoral Researcher**.
@@ -49,6 +47,9 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 
 ## Selected Patents
 - Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
+- Unsupervised domain adaptation method, device, system and storage medium of semantic segmentation based on uniform clustering. U.S. Patent No. 11734390.
+- Semantic segmentation method and system for high-resolution remote sensing image based on random blocks. U.S. Patent No. 11189034.
+- 基于几何特征和纹理特征的脸部运动迟缓的检测模型的构建方法. ZL 2020 1 0063066.0
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
