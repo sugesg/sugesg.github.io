@@ -70,8 +70,11 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - 长三角空天信息数据开放创新大赛二等奖（2020）
   
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2019.09 - 2025.03, Ph.D. Computer Science and Technology, College of Computer science and technology, Zhejiang University.
+- 2023.07 - 2024.07, Joint Ph.D. Program. Computer Science and Technology, College of Computing, National University of Singapore.
+- 2015.09 - 2019.06, B.Eng. Digital Media Technology, School of Information Engineering, Communication University of China.
+
+<span class='anchor' id='contacts'></span>
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
