@@ -49,7 +49,11 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
 - Unsupervised domain adaptation method, device, system and storage medium of semantic segmentation based on uniform clustering. U.S. Patent No. 11734390.
 - Semantic segmentation method and system for high-resolution remote sensing image based on random blocks. U.S. Patent No. 11189034.
-- 基于几何特征和纹理特征的脸部运动迟缓的检测模型的构建方法. ZL 2020 1 0063066.0
+- 基于几何特征和纹理特征的脸部运动迟缓的检测模型的构建方法. CN111310798B.
+- 一种帕金森患者面部表情低迷的检测方法. CN111210415B.
+- 基于高分辨率遥感图像的跨域数据的定向迁移方法及系统. CN111723780B.
+- 一种基于随机块的高分遥感图像的语义分割方法及系统. CN111738268B.
+- 基于均匀聚类的语义分割的无监督域适应方法、装置、系统和存储介质. CN113221905B.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
