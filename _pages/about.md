@@ -41,13 +41,13 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 # 📝 Publications 
 
 ## Selected Papers
-- **Ge Su**, Kaiping Zheng, Tiancheng Zhao, and Jianwei Yin. CLEAR: Addressing Representation Contamination in Multimodal Healthcare Analytics. **ACM SIGKDD 2025. [CCF-A]**
-- **Ge Su**, Bo Lin, Wei Luo, Jianwei Yin, Shuiguang Deng, Honghao Gao, and Renjun Xu. Hypomimia recognition in parkinson’s disease with semantic features. **ACM TOMM 2021. [CCF-B]**
-- **Ge Su**, Bo Lin, Jianwei Yin, Wei Luo, Renjun Xu, Jie Xu, and Kexiong Dong. Detection of hypomimia in patients with Parkinson’s disease via smile videos. **Annals of Translational Medicine. [SCI]**
-- Qilin Li, Jinfeng Cao, Xinjiang Liu, Xin Luo, **Ge Su**, Dejian Wang, and Bo Lin. The diagnostic value of diffusion kurtosis imaging in Parkinson’s disease: a systematic review and meta-analysis. **Annals of Translational Medicine. [SCI]**
-- Jinfeng Cao, Jinye Dong, **Ge Su**, Baohua Zhang, Lingchen Zhu, Min Wang, Qilin Li, Lesong Zhang, Dejian Wang, and Xin Luo. Comparison of the monoexponential and biexponential models of diffusion-weighted magnetic imaging in grading clear-cell renal cell carcinoma: a case-control study. **Translational Andrology and Urology. [SCI]**
-- Zhou Tong, Yin Wang, Xuanwen Bao, Yu Deng, Bo Lin, **Ge Su**, Kejun Ye, Xiaomeng Dai, Hangyu Zhang, Lulu Liu, Wenyu Wang, Yi Zheng, Weijia Fang, Peng Zhao, Peirong Ding, Shuiguang Deng, Xiangming Xu. Development of a whole-slide-level segmentation-based dMMR/pMMR deep learning detector for colorectal cancer. **Iscience. [SCI]**
-- Luming Zhang, **Ge Su**, Jianwei Yin, Ying Li, Qiuru Lin, Xiaoqin Zhang, and Ling Shao. Bioinspired scene classification by deep active learning with remote sensing applications. **IEEE CYB 2021. [CCF-B]**
+- **Ge Su**, Kaiping Zheng, Tiancheng Zhao, and Jianwei Yin. [CLEAR: Addressing Representation Contamination in Multimodal Healthcare Analytics.](https://dl.acm.org/doi/abs/10.1145/3690624.3709164) **ACM SIGKDD 2025. [CCF-A]**
+- **Ge Su**, Bo Lin, Wei Luo, Jianwei Yin, Shuiguang Deng, Honghao Gao, and Renjun Xu. [Hypomimia recognition in parkinson’s disease with semantic features.](https://dl.acm.org/doi/abs/10.1145/3476778) **ACM TOMM 2021. [CCF-B]**
+- **Ge Su**, Bo Lin, Jianwei Yin, Wei Luo, Renjun Xu, Jie Xu, and Kexiong Dong. [Detection of hypomimia in patients with Parkinson’s disease via smile videos.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8422154/) **Annals of Translational Medicine. [SCI]**
+- Qilin Li, Jinfeng Cao, Xinjiang Liu, Xin Luo, **Ge Su**, Dejian Wang, and Bo Lin. [The diagnostic value of diffusion kurtosis imaging in Parkinson’s disease: a systematic review and meta-analysis.](https://pmc.ncbi.nlm.nih.gov/articles/PMC9096385/) **Annals of Translational Medicine. [SCI]**
+- Jinfeng Cao, Jinye Dong, **Ge Su**, Baohua Zhang, Lingchen Zhu, Min Wang, Qilin Li, Lesong Zhang, Dejian Wang, and Xin Luo. [Comparison of the monoexponential and biexponential models of diffusion-weighted magnetic imaging in grading clear-cell renal cell carcinoma: a case-control study.](https://pmc.ncbi.nlm.nih.gov/articles/PMC11157396/) **Translational Andrology and Urology. [SCI]**
+- Zhou Tong, Yin Wang, Xuanwen Bao, Yu Deng, Bo Lin, **Ge Su**, Kejun Ye, Xiaomeng Dai, Hangyu Zhang, Lulu Liu, Wenyu Wang, Yi Zheng, Weijia Fang, Peng Zhao, Peirong Ding, Shuiguang Deng, Xiangming Xu. [Development of a whole-slide-level segmentation-based dMMR/pMMR deep learning detector for colorectal cancer.](https://www.cell.com/iscience/fulltext/S2589-0042(23)02545-2) **Iscience. [SCI]**
+- Luming Zhang, **Ge Su**, Jianwei Yin, Ying Li, Qiuru Lin, Xiaoqin Zhang, and Ling Shao. [Bioinspired scene classification by deep active learning with remote sensing applications.](https://ieeexplore.ieee.org/abstract/document/9364931/) **IEEE CYB 2021. [CCF-B]**
 
 ## Selected Patents
 - Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
