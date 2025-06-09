@@ -21,6 +21,7 @@ I am currently a Postdoctoral Researcher at the School of Software Technology at
 
 In 2025, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Professor <a href='https://person.zju.edu.cn/shuiguang/'> Shuiguang Deng </a>. My primary research focuses on multimodal learning, data mining and intelligent healthcare, with a particular emphasis on large vision-language models in the intelligent regulatory tasks.
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **Cell Discovery 2025**.
 - *2025.05*: &nbsp;🎉🎉 Joined the School of Software Technology at **Zhejiang University** as a **Postdoctoral Researcher**.
@@ -33,6 +34,7 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - *2021.08*: &nbsp;🎉🎉 A first-author regular paper has been published by Annals of Translational Medicine.
 - *2021.08*: &nbsp;🎉🎉 A co-authored regular paper has been published by **IEEE Transactions on Cybernetics**.
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 
 ## Selected Papers
@@ -63,19 +65,19 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 - 国家重点研发计划项目-服务智能监管共性理论与技术（2022YFF0902600），项目经费：500万元，2022.11 – 2025.10，核心参与
 - 国家重大专项-高分辨率对地观测系统重大专项（民用部分）高分网格平台（二期）（50-D36B02-9002-16/19），项目经费：5081万元，2017-01 – 2020.06，核心参与
 
-
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖 Honors and Awards
 - 浙江大学希格斯奖学金（2023）
 - 人民网人工智能算法挑战赛亚军（2021）
 - 长三角空天信息数据开放创新大赛二等奖（2020）
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - 2019.09 - 2025.03, Ph.D. Computer Science and Technology, College of Computer science and technology, Zhejiang University.
 - 2023.07 - 2024.07, Joint Ph.D. Program. Computer Science and Technology, College of Computing, National University of Singapore.
 - 2015.09 - 2019.06, B.Eng. Digital Media Technology, School of Information Engineering, Communication University of China.
 
-
+<span class='anchor' id='contacts'></span>
 # 💬 Contacts
 - E-Mail: suge@zju.edu.cn
 - Room 311, No. 3 Building, School of Software Technology at Zhejiang University, No. 5 Xuefu Road, Yinzhou District, Ningbo, China
