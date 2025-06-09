@@ -24,7 +24,7 @@ In 2025, I obtained my PhD from the School of Computer Science and Technology at
 <!-- hitwebcounter Code START -->
 
 You are visitor number
-<img src="https://hitwebcounter.com/counter/counter.php?page=20877623&style=0006&nbdigits=6&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /> to my homepage. Thanks for your attention!             
+<img src="https://hitwebcounter.com/counter/counter.php?page=20877651&style=0006&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /> to my homepage. Thanks for your attention!             
 
 <span class='anchor' id='news'></span>
 # 🔥 News
