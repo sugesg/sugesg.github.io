@@ -31,7 +31,7 @@ You are visitor number
 - *2026.02*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **ICLR 2026**.
 - *2026.01*: &nbsp;🎉🎉 Two co-authored regular papers has been accepted by **AAAI 2026**.
 - *2025.10*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **MM 2025**.
-- *2025.10*: &nbsp;🎉🎉 Received the **Zhejiang Provincial Postdoctoral Research Project (Selective Funding)**.
+- *2025.10*: &nbsp;🎉🎉 Obtained the **Zhejiang Provincial Postdoctoral Research Project (Selective Funding)**.
 - *2025.05*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **Cell Discovery 2025**.
 - *2025.05*: &nbsp;🎉🎉 Joined the School of Software Technology at **Zhejiang University** as a **Postdoctoral Researcher**.
 - *2025.03*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**. 
