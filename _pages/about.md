@@ -47,10 +47,10 @@ You are visitor number
 # 📝 Publications 
 
 ## Selected Papers
-- Yuntai Bao, Xuhong Zhang, Jintao Chen, **Ge Su**, Yuxiang Cai, Hao Peng, Bing Sun, Haiqin Weng, Yan Liu, and Jianwei Yin. Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions. **ICLR 2026. [CCF-A]**
-- Qinfeng Li, Miao Pan, Jintao Chen, Fu Teng, Zhiqiang Shen, **Ge Su**, Hao Peng, and Xuhong Zhang. Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging. **AAAI 2026. [CCF-A]**
-- Qinfeng Li, Miao Pan, Ke Xiong, **Ge Su**, Zhiqiang Shen, Yan Liu, Bing Sun, Hao Peng, and Xuhong Zhang. RAGFort: Dual-Path Defense Against Proprietary Knowledge Base Extraction in Retrieval-Augmented Generation. **AAAI 2026. [CCF-A]**
-- Yin Wang, Zixuan Wang, Hao Lu, Zhen Qin, Hailiang Zhao, Guanjie Cheng, Xin Du, **Ge Su**, Li Kuang, Mengchu Zhou, and Shuiguang Deng. SeMi: When Imbalanced Semi-Supervised Learning Meets Mining Hard Examples. **ACM MM 2025. [CCF-A]**
+- Yuntai Bao, Xuhong Zhang, Jintao Chen, **Ge Su**, Yuxiang Cai, Hao Peng, Bing Sun, Haiqin Weng, Yan Liu, and Jianwei Yin. [Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions.](https://arxiv.org/abs/2602.05234) **ICLR 2026. [CCF-A]**
+- Qinfeng Li, Miao Pan, Jintao Chen, Fu Teng, Zhiqiang Shen, **Ge Su**, Hao Peng, and Xuhong Zhang. [Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging.](https://arxiv.org/abs/2511.10712) **AAAI 2026. [CCF-A]**
+- Qinfeng Li, Miao Pan, Ke Xiong, **Ge Su**, Zhiqiang Shen, Yan Liu, Bing Sun, Hao Peng, and Xuhong Zhang. [RAGFort: Dual-Path Defense Against Proprietary Knowledge Base Extraction in Retrieval-Augmented Generation.](https://arxiv.org/abs/2511.10128) **AAAI 2026. [CCF-A]**
+- Yin Wang, Zixuan Wang, Hao Lu, Zhen Qin, Hailiang Zhao, Guanjie Cheng, Xin Du, **Ge Su**, Li Kuang, Mengchu Zhou, and Shuiguang Deng. [SeMi: When Imbalanced Semi-Supervised Learning Meets Mining Hard Examples.](https://dl.acm.org/doi/abs/10.1145/3746027.3755450) **ACM MM 2025. [CCF-A]**
 - **Ge Su**, Kaiping Zheng, Tiancheng Zhao, and Jianwei Yin. [CLEAR: Addressing Representation Contamination in Multimodal Healthcare Analytics.](https://dl.acm.org/doi/abs/10.1145/3690624.3709164) **ACM SIGKDD 2025. [CCF-A]**
 - **Ge Su**, Bo Lin, Wei Luo, Jianwei Yin, Shuiguang Deng, Honghao Gao, and Renjun Xu. [Hypomimia recognition in parkinson’s disease with semantic features.](https://dl.acm.org/doi/abs/10.1145/3476778) **ACM TOMM 2021. [CCF-B]**
 - **Ge Su**, Bo Lin, Jianwei Yin, Wei Luo, Renjun Xu, Jie Xu, and Kexiong Dong. [Detection of hypomimia in patients with Parkinson’s disease via smile videos.](https://pmc.ncbi.nlm.nih.gov/articles/PMC8422154/) **Annals of Translational Medicine. [SCI]**
