@@ -60,6 +60,7 @@ You are visitor number
 - Luming Zhang, **Ge Su**, Jianwei Yin, Ying Li, Qiuru Lin, Xiaoqin Zhang, and Ling Shao. [Bioinspired scene classification by deep active learning with remote sensing applications.](https://ieeexplore.ieee.org/abstract/document/9364931/) **IEEE CYB 2021. [CCF-B]**
 
 ## Selected Patents
+- Weakly Supervised Semantic Segmentation Method and Device Based on a Commonality-Specificity Supervision Mechanism. US12536767B2.
 - 基于共同性-特异性监督机制的弱监督语义分割方法和装置. CN117036683B.
 - Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
 - Unsupervised domain adaptation method, device, system and storage medium of semantic segmentation based on uniform clustering. U.S. Patent No. 11734390.
