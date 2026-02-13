@@ -61,15 +61,16 @@ You are visitor number
 
 ## Selected Patents
 - Weakly Supervised Semantic Segmentation Method and Device Based on a Commonality-Specificity Supervision Mechanism. US12536767B2.
-- 基于共同性-特异性监督机制的弱监督语义分割方法和装置. CN117036683B.
-- Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
 - Unsupervised domain adaptation method, device, system and storage medium of semantic segmentation based on uniform clustering. U.S. Patent No. 11734390.
+- Method and system for directed transfer of cross-domain data based on high-resolution remote sensing images. U.S. Patent No. 11741572.
 - Semantic segmentation method and system for high-resolution remote sensing image based on random blocks. U.S. Patent No. 11189034.
-- 基于几何特征和纹理特征的脸部运动迟缓的检测模型的构建方法. CN111310798B.
-- 一种帕金森患者面部表情低迷的检测方法. CN111210415B.
+- 基于共同性-特异性监督机制的弱监督语义分割方法和装置. CN117036683B.
+- 基于均匀聚类的语义分割的无监督域适应方法、装置、系统和存储介质. CN113221905B.
 - 基于高分辨率遥感图像的跨域数据的定向迁移方法及系统. CN111723780B.
 - 一种基于随机块的高分遥感图像的语义分割方法及系统. CN111738268B.
-- 基于均匀聚类的语义分割的无监督域适应方法、装置、系统和存储介质. CN113221905B.
+- 一种帕金森患者面部表情低迷的检测方法. CN111210415B.
+- 基于几何特征和纹理特征的脸部运动迟缓的检测模型的构建方法. CN111310798B.
+
 
 <span class='anchor' id='projects'></span>
 # 🛠️ Academic Projects
